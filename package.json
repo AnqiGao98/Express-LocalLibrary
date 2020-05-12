@@ -20,6 +20,7 @@
     "helmet": "^3.22.0",
     "http-errors": "~1.6.3",
     "moment": "^2.25.3",
+    "mongoose": "^5.9.13",
     "morgan": "~1.9.1",
     "pug": "2.0.0-beta11"
   },
